@@ -96,9 +96,12 @@ npm start
 
 ## 👨‍💻 Author
 
-Joshua Samuel T
-Kamalesh K
-Maruthu Pandiyan M
-Monish Praveen J
+Joshua Samuel T|
+
+Kamalesh K|
+
+Maruthu Pandiyan M|
+
+Monish Praveen J|
 
 ---
