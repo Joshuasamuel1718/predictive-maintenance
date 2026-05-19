@@ -3,3 +3,19 @@ node_modules/
 __pycache__/
 *.pyc
 *.pkl
+
+# Logs
+*.log
+api_log.txt
+error_log.txt
+
+# Local Environment
+.env
+maintenance-dashboard/.env
+
+# Local Test Scripts
+test_*.py
+check.py
+check_model.py
+find_row.py
+tune_rf.py
